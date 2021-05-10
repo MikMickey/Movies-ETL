@@ -40,7 +40,12 @@ Load the data to a PostgreSQL Movie Database
 
 ## Summary
 The ETL function created collects and cleans movie data from different sources (Wikipedia JSON and Kaggle and ratings csv files). It transforms and merges the data and loads it into two updatable PostgreSQL dataset tables ready to be used by the hackathon participants for their analysis.
+<<<<<<< HEAD
 
 ![movies_query](https://user-images.githubusercontent.com/80075982/117694079-93906000-b173-11eb-93b7-bf8737b116cb.png)
 
 ![ratings_query](https://user-images.githubusercontent.com/80075982/117694084-955a2380-b173-11eb-8ca5-67a57c9191ea.png)
+=======
+![movies_query](https://user-images.githubusercontent.com/80075982/117694079-93906000-b173-11eb-93b7-bf8737b116cb.png)
+![ratings_query](https://user-images.githubusercontent.com/80075982/117694084-955a2380-b173-11eb-8ca5-67a57c9191ea.png)
+>>>>>>> 225478aa43865493ba4aee97b0e4cdd75b9786bc
