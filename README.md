@@ -7,7 +7,7 @@ On this module, Britta needs help to create an automated pripeline that takes in
 
 ETL to collect, import and process data
 
-
+![ETL](https://user-images.githubusercontent.com/80075982/117694063-8e331580-b173-11eb-95e6-48853b246564.png)
 
 For this analysis, we used the following breakdown:
 
@@ -41,3 +41,6 @@ Load the data to a PostgreSQL Movie Database
 ## Summary
 The ETL function created collects and cleans movie data from different sources (Wikipedia JSON and Kaggle and ratings csv files). It transforms and merges the data and loads it into two updatable PostgreSQL dataset tables ready to be used by the hackathon participants for their analysis.
 
+![movies_query](https://user-images.githubusercontent.com/80075982/117694079-93906000-b173-11eb-93b7-bf8737b116cb.png)
+
+![ratings_query](https://user-images.githubusercontent.com/80075982/117694084-955a2380-b173-11eb-8ca5-67a57c9191ea.png)
